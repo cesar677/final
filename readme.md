@@ -10,7 +10,7 @@ crear carpetas  de los documentos
 
 segundo crear nuestro archivo  principal  index.html 
 
-##  Descargar  los  elemtos que vamos a utilizar 
+##  Descargar  los  elementos que vamos a utilizar 
 
 - Jquery
 - popper 
