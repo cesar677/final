@@ -12558,7 +12558,6 @@ header .profile-options-modal .profile-options-list li a {
   padding: 10px 0;
   color: #0c0c0c;
   text-decoration: none;
-  text-transform: lowercase;
 }
 header .profile-options-modal .profile-options-list li a i {
   position: inherit;
