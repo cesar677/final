@@ -232,8 +232,8 @@ ul {
                 }
                 .servicios{
                     margin-bottom: 10px;
-                    font-size: 11px;
-                    color: #887e7e;
+                    font-size: 14px;
+                    color: #adb5bd;
                     font-weight: 600;
 
                 }
@@ -279,10 +279,14 @@ ul {
 
 .servicios-card {
 
-    background-color: #0c0c0c;
+    background-color: #000000;
     text-align: justify;
     width: 100%;
     color: #fff;
+    h5{
+        text-align: center;
+    }
+
 }
 footer {
     margin-top: 2.25rem;

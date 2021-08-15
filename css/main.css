@@ -12681,8 +12681,8 @@ header .profile-options-modal .profile-options-list li a i {
 }
 .products-list-container ul li .product-info .product-info-inner .servicios {
   margin-bottom: 10px;
-  font-size: 11px;
-  color: #887e7e;
+  font-size: 14px;
+  color: #adb5bd;
   font-weight: 600;
 }
 .products-list-container ul li .product-info .product-info-inner .stars {
@@ -12707,10 +12707,13 @@ header .profile-options-modal .profile-options-list li a i {
 }
 
 .servicios-card {
-  background-color: #0c0c0c;
+  background-color: #000000;
   text-align: justify;
   width: 100%;
   color: #fff;
+}
+.servicios-card h5, .servicios-card .h5 {
+  text-align: center;
 }
 
 footer {
