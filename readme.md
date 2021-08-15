@@ -1,6 +1,6 @@
 # Soporte  Computadores Suba 
 
-- procesos de desarrollo 
+- Procesos de desarrollo 
 
 crear carpetas  de los documentos 
 
@@ -10,7 +10,7 @@ crear carpetas  de los documentos
 
 segundo crear nuestro archivo  principal  index.html 
 
-- Descargar  los  elemtos que vamos a utilizar 
+##  Descargar  los  elementos que vamos a utilizar 
 
 - Jquery
 - popper 
